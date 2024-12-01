@@ -31,6 +31,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DarkMirage-code/DarkMirage-code/output/snake.svg" alt="Snake animation" />
+
 
 ###
