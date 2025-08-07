@@ -5,7 +5,7 @@
 <div align="center">
   
    ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GregoryMinella&layout=compact&langs_count=20&theme=dark&cache_seconds=1800)
-   ![Stats](https://github-readme-stats.vercel.app/api?username=GregoryMinella&show_icons=true&theme=dark&cache_seconds=1800)
+   ![Stats](https://github-readme-stats.vercel.app/api?username=GregoryMinella&show=true_icons=true&theme=dark&cache_seconds=1800)
 
 
 </div>
