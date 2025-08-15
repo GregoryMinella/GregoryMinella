@@ -4,8 +4,8 @@
 
 <div align="center">
   
-   ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GregoryMinella&layout=compact&langs_count=27&theme=dark&cache_seconds=1800)
-   ![Stats](https://github-readme-stats.vercel.app/api?username=GregoryMinella&show=true_icons=true&theme=dark&cache_seconds=1852)
+   ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GregoryMinella&layout=compact&langs_count=28&theme=dark&cache_seconds=1800)
+   ![Stats](https://github-readme-stats.vercel.app/api?username=GregoryMinella&show=true_icons=true&theme=dark&cache_seconds=1853)
 
 
 </div>
